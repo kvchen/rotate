@@ -1,0 +1,22 @@
+{
+  "uuid": "359cd10e-50c8-4493-a7d5-da044b391d05",
+  "shortName": "Rotate",
+  "longName": "Rotate",
+  "companyName": "keff.me",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/rotate.png"
+      }
+    ]
+  }
+}
